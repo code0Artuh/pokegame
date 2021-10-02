@@ -3,7 +3,7 @@ background: url(https://wallpaperaccess.com/full/4422089.jpg);
 background-color: black;
 }
 
-#canvas{
+.container{
 display: flex;
 flex-direction: row;
 justify-content: center;
